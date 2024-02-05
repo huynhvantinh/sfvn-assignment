@@ -6,7 +6,7 @@
 2. Install the composer dependencies: "composer install"
 3. Now migrate the tables: "php artisan migrate"
 4. Run seeder: "php artisan db:seed"
-
+5. Then generate the key: "php artisan key:generate"
 
 Login:
 - Email: admin@gmail.com
