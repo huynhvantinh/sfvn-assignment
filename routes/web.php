@@ -13,7 +13,6 @@
 use App\Http\Controllers\SalesController;
 
 
-//https://codeastro.com/download/download-sales-and-invoice-management-system-project-in-laravel-with-source-code/
 Auth::routes();
 
 Route::get('/', 'HomeController@index')->name('home');
